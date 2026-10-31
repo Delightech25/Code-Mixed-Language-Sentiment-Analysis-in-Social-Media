@@ -1,0 +1,5 @@
+Flask==3.1.2
+transformers==5.2.0
+torch==2.10.0
+Werkzeug==3.1.5
+sentencepiece==0.2.1
